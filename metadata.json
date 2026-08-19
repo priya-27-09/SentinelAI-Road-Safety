@@ -1,0 +1,6 @@
+{
+  "name": "RoadGuard AI - Road Safety Intelligence Platform",
+  "description": "AI-powered Road Safety Intelligence Platform with predictive accident hotspot modeling, dangerous route alerts, hands-free voice hazard reporting, CCTV computer vision risk detection, and traffic police repair priority dispatch.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
